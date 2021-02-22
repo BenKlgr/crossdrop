@@ -1,6 +1,7 @@
 # CrossDrop 🚀
 
 ![CrossDrop Logo](https://i.imgur.com/wrlUmxG.png)
+<img align="center" src="https://i.imgur.com/wrlUmxG.png" alt="CrossDrop Logo">
 
 CrossDrop is a free-to-use file transfer, working on multiple platforms. It's similar to Apple's Airdrop.
 
