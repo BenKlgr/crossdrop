@@ -1,4 +1,4 @@
-# CrossDrop
+# CrossDrop 🚀
 
 CrossDrop is a free-to-use file transfer, working on multiple platforms. It's similar to Apple's Airdrop.
 
